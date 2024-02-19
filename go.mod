@@ -1,0 +1,1 @@
+module nuclear_fusion_calculator
